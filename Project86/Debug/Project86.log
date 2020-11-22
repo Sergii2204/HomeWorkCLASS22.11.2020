@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\user\source\repos\Project86\Project86\Source.cpp(16,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Project86\Project86\Source.cpp(40,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\user\source\repos\Project86\Project86\Source.cpp(130,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Project86.vcxproj -> C:\Users\user\source\repos\Project86\Debug\Project86.exe
